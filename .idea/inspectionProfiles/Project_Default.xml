@@ -1,0 +1,24 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="streamlit" />
+          <option value="python-dotenv" />
+          <option value="nltk" />
+          <option value="unstructured" />
+          <option value="langchain-community" />
+          <option value="langchain-huggingface" />
+          <option value="langchain-chroma" />
+          <option value="langchain-text-splitters" />
+          <option value="langchain-groq" />
+          <option value="transformers" />
+          <option value="sentence-transformers" />
+          <option value="youtube-search-python" />
+          <option value="httpx" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
